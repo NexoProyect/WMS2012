@@ -33,3 +33,6 @@ El script realiza las siguientes acciones:
    git clone https://github.com/NexoProyect/WMS2012.git
 ```
 2. Ejecutar wms2012.bat
+
+# Nota
+Si no obtuviste info relevante puedes ejecutar perm.bat para saber con cuales permisos cuentas en tu usuario y asi abusar de eso.
